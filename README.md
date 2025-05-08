@@ -65,8 +65,8 @@ ADMINS = [123456789]  # Telegram ID raqamlari
 
 ## 👨‍💻 Dasturchi
 
-- [Ismingizni bu yerga yozing]
-- [Telegram yoki GitHub profilingiz]
+- [Imomaliyev Javohir]
+- [Joxa2047]
 
 ---
 
