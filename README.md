@@ -23,7 +23,7 @@ korzinka_bot/
 ### 1. Repozitoriyani Klon Qiling
 
 ```bash
-git clone https://github.com/yourusername/korzinka_bot.git
+git clone https://github.com/Joxa2047/Korzinka-bot.git
 cd korzinka_bot
 ```
 
